@@ -4,4 +4,4 @@ Creat a Tutorial that explains how a specific regular expression, or regex, func
 
 # My gist link
 
-https://gist.github.com/SimonMSelvadurai/50e7319b8695a64918890ce18b6ccd11.js
+https://gist.github.com/SimonMSelvadurai/50e7319b8695a64918890ce18b6ccd11
